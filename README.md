@@ -5,17 +5,19 @@
     <br>320 efficient solutions to HackerRank problems
 </p>
 
-* [10 Days of Statistics](#10-days-of-statistics)
-* [30 Days of Code](#30-days-of-code)
 * [Algorithms](#algorithms)
-* [Cracking the Coding Interview](#cracking-the-coding-interview)
 * [Data Structures](#data-structures)
+* [Mathematics](#mathematics)
+* [30 Days of Code](#30-days-of-code)
+* [Cracking the Coding Interview](#cracking-the-coding-interview)
+* [10 Days of Statistics](#10-days-of-statistics)
 * [General Programming](#general-programming)
 * [Implementation](#implementation)
 * [Java](#java)
+* [Python](#python)
 * [SQL](#sql)
 
-Solutions are coded using Java 8
+Solutions are coded using Java 7
 
 SQL solutions are coded using MySQL
 
