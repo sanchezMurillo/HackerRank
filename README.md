@@ -20,7 +20,7 @@
 
 |        Subdomain        |                                              Challenge                                                   |             Points          |                                               Solution                                                   |
 |:-----------------------:|:--------------------------------------------------------------------------------------------------------:|:--------------------------:|:--------------------------------------------------------------------------------------------------------:|
-|         Warmup          | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first "_blank")                          |                1            | [Solution](https://www.hackerrank.com/challenges/solve-me-first/submissions/code/57113098)               |
+|         Warmup          | <a href="https://www.hackerrank.com/challenges/solve-me-first" target="_blank">Solve Me First</a>        |                1            | <a href="https://www.hackerrank.com/challenges/solve-me-first" target="_blank">Solution</a>               |
 |         Warmup          | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)                               |               10            | [Solution](https://www.hackerrank.com/challenges/simple-array-sum/submissions/code/57112851)             |
 
 # Data Structures
