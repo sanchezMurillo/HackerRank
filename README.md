@@ -134,8 +134,8 @@
 
 # Java
 
-|        Subdomain          |                                              Challenge                                                   |             Points          |                                               Solution                                                   |
-|:-------------------------:|: -----------------------------------------------------------------------------------------------------:|:----------------------------:|:--------------------------------------------------------------------------------------------------------:|
+|        Subdomain            |                                            Challenge                                                   |             Points            |                                             Solution                                                   |
+|:---------------------------:|:----------------------------------------------------------------------------------------------------:|:------------------------------:|:------------------------------------------------------------------------------------------------------:|
 |         Introduction        | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                              |                3              | [Solution](https://www.hackerrank.com/challenges/welcome-to-java/submissions/code/51853730)            |
 |         Introduction        | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)               |                5              | [Solution](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/submissions/code/51854124)    |
 |         Introduction        | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                     |               10              | [Solution](https://www.hackerrank.com/challenges/java-if-else/submissions/code/51855839)               |
@@ -184,9 +184,9 @@
 | Object Oriented Programming | [Java Interface](https://www.hackerrank.com/challenges/java-interface)                                 |               10              | [Solution]()|
 | Object Oriented Programming | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding)                 |               10              | [Solution]()|
 | Object Oriented Programming | [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword)                                                                                                                       |               10              | [Solution]()|
-| Object Oriented Programming | [Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword)                               10              | [Solution]()|
-| Object Oriented Programming | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator)                                                   15              | [Solution]()|
-| Object Oriented Programming | [Calculating Volume](https://www.hackerrank.com/challenges/calculating-volume)                                          20             | [Solution]()|
+| Object Oriented Programming | [Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword)               |                10             | [Solution]()|
+| Object Oriented Programming | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator)                                   |                15             | [Solution]()|
+| Object Oriented Programming | [Calculating Volume](https://www.hackerrank.com/challenges/calculating-volume)                         |                 20            | [Solution]()|
 |      Exception Handling     | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch)                                                                                                                                 |                10             | [Solution]()|
 |      Exception Handling     | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)               |                15             | [Solution]()|
 |           Advanced          | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)        |                15             | [Solution]()|
